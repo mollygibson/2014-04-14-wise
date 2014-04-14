@@ -14,9 +14,9 @@ level: novice
 |:-----------------------|:------------------------|:--------------------------|---------------:|
 | 8:30-9:00      | -- Set Up --------- | Here               | All             |
 | 9:00-9:30      | -- Introduction --- | Here               | Katy Huff       |
-| 9:30-10:30     | -- Shell ---------- | [Shell](shell/tutorial.html) | Suzanne Kiihne |
+| 9:30-10:30     | -- Shell ---------- | [Shell](shell/index.html) | Suzanne Kiihne |
 | 10:30-10:45    | -- Break ---------- | Here               | All             |
-| 10:45-12:15    | -- Shell ---------- | [Shell](shell/tutorial.html) | Suzanne Kiihne |
+| 10:45-12:15    | -- Shell ---------- | [Shell](shell/index.html) | Suzanne Kiihne |
 | 12:15-1:15     | -- Lunch ---------- | Cafeteria          | All |
 | 1:15-2:30      | -- Git Local ------ | [Git Local](git/local.html) | Jessica Kerr |
 | 2:30-2:45      | -- Break ---------- | Here               | All |
